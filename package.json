@@ -1,0 +1,14 @@
+{
+  "name": "chosen-bootstrap",
+  "version": "1.1.3",
+  "description": "Bootstrap look & feel for chosen",
+  "homepage": "https://github.com/halalbooking/chosen-bootstrap",
+  "repository": "github:halalbooking/chosen-bootstrap",
+  "license": "MIT",
+  "style": "chosen.bootstrap.css",
+  "files": [
+    "chosen.bootstrap.css",
+    "chosen-sprite.png",
+    "chosen-sprite@2x.png"
+  ]
+}
